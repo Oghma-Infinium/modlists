@@ -2,7 +2,7 @@
   {
     "title": "Ascensio",
     "description": "Ascensio is a comprehensive visual overhaul, providing very minimal gameplay tweaks in favor of an expansive graphical package.",
-    "author": "Curly, aljo, & bingus",
+    "author": "Curly, aljo, \u0026 bingus",
     "maintainers": [
       "github/aljoxo",
       "github/bingusthecatto"
@@ -21,21 +21,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/Media/Ascensio%20WJ%20Banner.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascensio.wabbajack_f4a789ee-e73f-49f0-ad93-45e62eba703d",
+      "download": "https://authored-files.wabbajack.org/Ascensio.wabbajack_e78f059c-5344-44b7-b65d-573e63a9f2a2",
       "machineURL": "ascensio",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
-      "Hash":"O8G7qgU3PK8=",
-      "Size":474908720,
-      "NumberOfArchives":1055,
-      "SizeOfArchives":110034596713,
-      "NumberOfInstalledFiles":95691,
-      "SizeOfInstalledFiles":122292059730
+      "Hash": "XDsURxvffjs=",
+      "Size": 474907092,
+      "NumberOfArchives": 1055,
+      "SizeOfArchives": 110034596713,
+      "NumberOfInstalledFiles": 95691,
+      "SizeOfInstalledFiles": 122292059831
     },
     "version": "1.0.0",
-    "dateCreated": "2023-04-02",
-    "dateUpdated": "2023-04-02",
+    "dateCreated": "2023-04-02T00:00:00",
+    "dateUpdated": "2023-04-02T21:55:47.6737901Z",
     "repositoryName": ""
   }
 ]
