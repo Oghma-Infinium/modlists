@@ -2,7 +2,7 @@
 
 ## **Ascensio** - [ [ReadMe](https://github.com/Oghma-Infinium/Ascensio) | [Changelog](https://github.com/Oghma-Infinium/Ascensio/blob/main/CHANGELOG.md) ]
 
-Ascensio is a comprehensive visual overhaul for Skyrim Anniversary Edition, providing very minimal gameplay tweaks in favor of an expansive graphical package.
+Ascensio is a comprehensive visual overhaul, providing very minimal gameplay tweaks in favor of an expansive graphical package that offers custom recolors and handpicked assets for a consistent visual experience.
 
 ## **Fahluaan** - [ [ReadMe](https://github.com/Oghma-Infinium/Fahluaan) | [Changelog](https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) ]
 
