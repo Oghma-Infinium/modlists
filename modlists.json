@@ -37,5 +37,40 @@
     "dateCreated": "2023-04-02T00:00:00",
     "dateUpdated": "2023-04-02T22:01:47.1781429Z",
     "repositoryName": ""
-  }
+  },
+  {
+    "title": "Ascalon",
+    "description": "Ascalon is a lightly modded list for Dragon's Dogma: Dark Arisen that also offers some customization for players.",
+    "author": "Maelstrom",
+    "maintainers": [
+      "github/Maelstrom8"
+    ],
+    "game": "dragonsdogma",
+    "official": false,
+    "tags": [
+      "Lite",
+      "Educational",
+      "They're Masterworks All You Can't Go Wrong"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon.webp",
+      "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Ascalon.wabbajack_d43dee41-1c67-492b-b612-9beb54118e82",
+      "machineURL": "ascalon",
+      "discordURL": "https://discord.gg/WakingDreams"
+    },
+    "download_metadata": {
+      "Hash": "o7of1DSoKLw=",
+      "Size": 1825369,
+      "NumberOfArchives": 1588,
+      "SizeOfArchives": 15175452984,
+      "NumberOfInstalledFiles": 4105,
+      "SizeOfInstalledFiles": 15617027728
+    },
+    "version": "1.5"
+   }
 ]
