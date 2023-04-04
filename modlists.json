@@ -59,21 +59,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascalon.wabbajack_50c9d48b-4f77-44af-9176-f975207df0af",
+      "download": "https://authored-files.wabbajack.org/Ascalon.wabbajack_f0e38228-b4b5-4b84-810f-434e0b4cd55e",
       "machineURL": "ascalon",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
-      "Hash": "SX5o2c1J2rE=",
-      "Size": 1636091,
-      "NumberOfArchives": 1587,
-      "SizeOfArchives": 15195695420,
-      "NumberOfInstalledFiles": 4059,
-      "SizeOfInstalledFiles": 15614171588
+      "Hash": "CG6b5/mBgmU=",
+      "Size": 1662009,
+      "NumberOfArchives": 1589,
+      "SizeOfArchives": 15197695060,
+      "NumberOfInstalledFiles": 4122,
+      "SizeOfInstalledFiles": 15630879432
     },
     "version": "1.5.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-04-03T18:16:42.9680162Z",
+    "dateUpdated": "2023-04-04T05:35:48.6972729Z",
     "repositoryName": ""
   }
 ]
