@@ -8,8 +8,9 @@
       "github/bingusthecatto"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Visuals Only",
       "NeverNude"
     ],
