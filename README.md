@@ -10,7 +10,7 @@ Fahluaan (fa·lu·an) is a comprehensive modlist for Skyrim Anniversary Edition 
 
 ## **Vagabond** - [ [ReadMe](https://github.com/Oghma-Infinium/Vagabond) ]
 
-A Skyrim modlist with focus on visuals, modernized combat and Legacy of the Dragonborn. In addition, Enairim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. Wide array of monster, weapon, armor and location overhauls are included to make the world more diverse.
+Vagabond is a Skyrim modlist for Anniversary Edition with focus on visuals, modernized combat, and Legacy of the Dragonborn. In addition, Enairim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. Wide array of monster, weapon, armor and location overhauls are included to make the world more diverse.
 
 ## **Ascalon** - [ [ReadMe](https://github.com/Oghma-Infinium/Ascalon/blob/main/README.md) | [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) ]
 
