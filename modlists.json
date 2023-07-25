@@ -49,7 +49,7 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "Anniversary Edition",  
+      "Anniversary Edition",
       "NeverNude"
     ],
     "nsfw": false,
@@ -59,21 +59,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Banner.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
-      "download": "https://authored-files.wabbajack.org/0.9.1.7z_e5507333-b774-45ac-9878-6273e82b2517",
+      "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_8f21e4f6-a8d4-45cb-ba1d-94012232c602",
       "machineURL": "fahluaan",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
-      "Hash": "tbWv33hS+RY=",
-      "Size": 383381115,
+      "Hash": "JrQBH/dAAXs=",
+      "Size": 383379394,
       "NumberOfArchives": 2636,
-      "SizeOfArchives": 195296604156,
+      "SizeOfArchives": 195296603727,
       "NumberOfInstalledFiles": 234427,
-      "SizeOfInstalledFiles": 248485586610
+      "SizeOfInstalledFiles": 248485586334
     },
-    "version": "0.9.1",
+    "version": "0.9.2",
     "dateCreated": "2023-07-24T00:00:00",
-    "dateUpdated": "2023-07-24T20:10:34.451989Z",
+    "dateUpdated": "2023-07-25T02:22:58.5237079Z",
     "repositoryName": ""
   },
   {
