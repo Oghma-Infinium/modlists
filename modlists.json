@@ -39,6 +39,44 @@
     "repositoryName": ""
   },
   {
+    "title": "Fahluaan",
+    "description": "Ascensio is a comprehensive visual overhaul, providing an expansive graphical package that covers animations, offers custom recolors, and a plethora of handpicked assets for an enhanced Skyrim experience.",
+    "author": "aljo",
+    "maintainers": [
+      "github/aljoxo",
+      "github/bingusthecatto"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Anniversary Edition",  
+      "NeverNude"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Banner.webp",
+      "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
+      "download": "https://authored-files.wabbajack.org/0.9.1.7z_e5507333-b774-45ac-9878-6273e82b2517",
+      "machineURL": "fahluaan",
+      "discordURL": "https://discord.gg/WakingDreams"
+    },
+    "download_metadata": {
+      "Hash": "tbWv33hS+RY=",
+      "Size": 383381115,
+      "NumberOfArchives": 2636,
+      "SizeOfArchives": 195296604156,
+      "NumberOfInstalledFiles": 234427,
+      "SizeOfInstalledFiles": 248485586610
+    },
+    "version": "0.9.1",
+    "dateCreated": "2023-07-24T00:00:00",
+    "dateUpdated": "2023-07-24T20:10:34.451989Z",
+    "repositoryName": ""
+  },
+  {
     "title": "Ascalon",
     "description": "Ascalon is a lightly modded list for Dragon\u0027s Dogma: Dark Arisen that also offers some customization for players.",
     "author": "Maelstrom",
