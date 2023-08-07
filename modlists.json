@@ -47,8 +47,9 @@
       "github/bingusthecatto"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Anniversary Edition",
       "Balanced",
       "NeverNude"
