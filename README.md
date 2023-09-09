@@ -1,6 +1,15 @@
 # Waking Dreams Modlists
 Listed below is a short summary of all the modlists hosted on the **Waking Dreams** server and their important documentation.
 
+<div align="center">
+
+## Ascalon
+[ [ReadMe](https://github.com/Oghma-Infinium/Ascalon/blob/main/README.md) | [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) ]
+</div>
+
+![](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon.png)
+
+Ascalon is a lightly modded modlist for Dragon's Dogma that is designed around educational and experimental purposes. It primarily consists of mods from [LDKSuperDante](https://www.nexusmods.com/dragonsdogma/users/23347084?tab=user+files) and includes templates that allow for additional customization of the list.
 
 <div align="center">
 
@@ -27,20 +36,10 @@ Fahluaan (fa·lu·an) is a comprehensive modlist for Skyrim Anniversary Edition 
 <div align="center">
 
 ## Vagabond
-[ [ReadMe](https://github.com/Oghma-Infinium/Vagabond) | [Changelog](https://github.com/Oghma-Infinium/Vagabond) ]
+[ [ReadMe](https://github.com/Oghma-Infinium/Vagabond) | [Changelog](https://github.com/Oghma-Infinium/Vagabond) | [FAQ](hhttps://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) ]
 </div>
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/banner.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/Vagabond%20Nexus%20Header%202.png)
 
 Vagabond is a Skyrim modlist for Anniversary Edition with focus on visuals, modernized combat, and Legacy of the Dragonborn. In addition, Enairim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. Wide array of monster, weapon, armor and location overhauls are included to make the world more diverse.
 
-
-<div align="center">
-
-## Ascalon
-[ [ReadMe](https://github.com/Oghma-Infinium/Ascalon/blob/main/README.md) | [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) ]
-</div>
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon.png)
-
-Ascalon is a lightly modded modlist for Dragon's Dogma that is designed around educational and experimental purposes. It primarily consists of mods from [LDKSuperDante](https://www.nexusmods.com/dragonsdogma/users/23347084?tab=user+files) and includes templates that allow for additional customization of the list.
