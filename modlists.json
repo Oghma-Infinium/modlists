@@ -118,7 +118,7 @@
   },
   {
     "title": "Vagabond",
-    "description": "Vagabond is a Skyrim modlist for Anniversary Edition with a focus on visuals, modern combat, and Legacy of the Dragonborn. Enairim suite is chosen for most gameplay overhauls, including Vokriinator Black. A wide array of monster, weapon, armor, spell and location overhauls are included to make the world more diverse. Includes full seasons support, with unfreezing of snowy areas during summer.",
+    "description": "Vagabond is a modlist for Skyrim Anniversary Edition with a focus on visuals, modern combat, and Legacy of the Dragonborn. EnaiRim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. A wide array of monster, weapon, armor, spell and location overhauls are included to make the world more diverse. This list also has full seasons support, including unfreezing of snowy areas during Summer.",
     "author": "Ylikollikas",
     "maintainers": [
       "github/ylikollikas",
@@ -140,7 +140,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/banner.png",
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/Vagabond%20Banner%20WEBP.webp",
       "readme": "https://github.com/Oghma-Infinium/Vagabond/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Vagabond.wabbajack_d195d9dd-1a86-4412-8f9e-475f92a6b2f9",
       "machineURL": "vagabond",
@@ -154,7 +154,7 @@
       "NumberOfInstalledFiles": 664872,
       "SizeOfInstalledFiles": 548645096685
     },
-    "version": "1.0",
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": ""
