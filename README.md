@@ -36,7 +36,7 @@ Fahluaan (fa·lu·an) is a comprehensive modlist for Skyrim Anniversary Edition 
 <div align="center">
 
 ## Vagabond
-[ [ReadMe](https://github.com/Oghma-Infinium/Vagabond) | [Changelog](https://github.com/Oghma-Infinium/Vagabond) | [FAQ](hhttps://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) ]
+[ [ReadMe](https://github.com/Oghma-Infinium/Vagabond) | [Changelog](https://github.com/Oghma-Infinium/Vagabond) | [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) ]
 </div>
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/Vagabond%20Nexus%20Header%202.png)
