@@ -61,21 +61,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Bannernew.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_2acdce65-dba3-4fcd-bf30-8a8a1978b962",
+      "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_80a2ce1b-d392-45c9-9a8a-f66aeb654cf6",
       "machineURL": "fahluaan",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
-      "Hash": "GK9gcu8fAPw=",
-      "Size": 573956949,
-      "NumberOfArchives": 2808,
-      "SizeOfArchives": 210252940335,
-      "NumberOfInstalledFiles": 335228,
-      "SizeOfInstalledFiles": 290071804052
+      "Hash": "rLX7LJ/f80k=",
+      "Size": 542966105,
+      "NumberOfArchives": 2851,
+      "SizeOfArchives": 206616678780,
+      "NumberOfInstalledFiles": 339741,
+      "SizeOfInstalledFiles": 291247646244
     },
-    "version": "1.4.4",
+    "version": "1.5.0",
     "dateCreated": "2023-07-24T00:00:00",
-    "dateUpdated": "2023-10-07T19:31:08.4965252Z",
+    "dateUpdated": "2023-10-19T05:22:09.9430808Z",
     "repositoryName": ""
   },
   {
