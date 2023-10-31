@@ -2,7 +2,7 @@
   {
     "title": "Ascensio",
     "description": "Ascensio is a comprehensive visual overhaul, providing an expansive graphical package that covers animations, offers custom recolors, and a plethora of handpicked assets for an enhanced Skyrim experience.",
-    "author": "aljo, Bingus, and Curly",
+    "author": "Bingus",
     "maintainers": [
       "github/aljoxo",
       "github/bingusthecatto"
@@ -11,6 +11,7 @@
     "official": true,
     "tags": [
       "Official",
+      "Special Edition",
       "Visuals Only",
       "NeverNude"
     ],
