@@ -18,6 +18,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/Media/Ascensio%20WJ%20Header.webp",
@@ -58,6 +59,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Bannernew.webp",
@@ -96,6 +98,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon.webp",
@@ -139,25 +142,26 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/Vagabond%20WJ%20Banner.webp",
       "readme": "https://github.com/Oghma-Infinium/Vagabond/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Vagabond.wabbajack_abc4e203-471e-4006-848b-d1bafe635038",
+      "download": "https://authored-files.wabbajack.org/Vagabond.wabbajack_401a3182-88bc-45a4-9a30-7a366d5743c4",
       "machineURL": "vagabond",
       "discordURL": "https://discord.gg/wakingdreams"
     },
     "download_metadata": {
-      "Hash": "6TQ7aNWobIM=",
-      "Size": 3443718672,
-      "NumberOfArchives": 4250,
-      "SizeOfArchives": 328035704017,
-      "NumberOfInstalledFiles": 663279,
-      "SizeOfInstalledFiles": 544733090635
+      "Hash": "J1qELCYAfOo=",
+      "Size": 2560599090,
+      "NumberOfArchives": 4544,
+      "SizeOfArchives": 317597172857,
+      "NumberOfInstalledFiles": 822438,
+      "SizeOfInstalledFiles": 508800221680
     },
-    "version": "1.0.3",
+    "version": "1.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-10-31T13:02:06.3115915Z",
+    "dateUpdated": "2023-11-09T19:19:56.2293665Z",
     "repositoryName": ""
   }
 ]
