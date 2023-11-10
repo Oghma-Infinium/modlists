@@ -18,26 +18,25 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/Media/Ascensio%20WJ%20Header.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascensio.wabbajack_a405014f-bdd1-4753-8cd3-0d91c459690e",
+      "download": "https://authored-files.wabbajack.org/Ascensio.wabbajack_5a95e171-7b90-4a35-aa50-2bf0aa4e4b0e",
       "machineURL": "ascensio",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
-      "Hash": "nZqE1VTytkI=",
-      "Size": 318781487,
+      "Hash": "pbzRGx2xPug=",
+      "Size": 318797434,
       "NumberOfArchives": 1203,
       "SizeOfArchives": 132691219840,
-      "NumberOfInstalledFiles": 102516,
-      "SizeOfInstalledFiles": 147779101494
+      "NumberOfInstalledFiles": 102688,
+      "SizeOfInstalledFiles": 147804287289
     },
-    "version": "3.3.3",
+    "version": "3.3.4",
     "dateCreated": "2023-04-02T00:00:00",
-    "dateUpdated": "2023-11-02T00:48:00.8747766Z",
+    "dateUpdated": "2023-11-10T13:26:18.0216531Z",
     "repositoryName": ""
   },
   {
@@ -59,7 +58,6 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Bannernew.webp",
@@ -98,7 +96,6 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon.webp",
@@ -142,7 +139,6 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/Vagabond%20WJ%20Banner.webp",
