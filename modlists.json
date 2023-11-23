@@ -129,8 +129,9 @@
       "github/bingusthecatto"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Anniversary Edition",
       "Seasons",
       "Visuals",
