@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/Media/Ascensio%20WJ%20Header.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascensio.wabbajack_20032b44-1919-4be0-810a-ddc5a6e7e064",
+      "download": "https://authored-files.wabbajack.org/Ascensio.wabbajack_3b22fe0e-fc36-40a1-a027-e52a92b5e3bb",
       "machineURL": "ascensio",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
-      "Hash": "Huh81ixzhIM=",
-      "Size": 1227581888,
+      "Hash": "ENAz4AdSE+A=",
+      "Size": 1227631070,
       "NumberOfArchives": 1170,
       "SizeOfArchives": 117775731792,
-      "NumberOfInstalledFiles": 97040,
-      "SizeOfInstalledFiles": 125070719346
+      "NumberOfInstalledFiles": 97041,
+      "SizeOfInstalledFiles": 125070800646
     },
     "version": "3.4.1",
     "dateCreated": "2023-04-02T00:00:00",
-    "dateUpdated": "2024-01-05T17:56:36.9293725Z",
+    "dateUpdated": "2024-01-05T18:03:30.2295203Z",
     "repositoryName": ""
   },
   {
