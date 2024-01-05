@@ -19,7 +19,7 @@ Ascalon is a lightly modded modlist for Dragon's Dogma that is designed around e
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/Media/Ascensio%20Header.png)
 
-Ascensio is a comprehensive visual overhaul modlist for Skyrim Special Edition (v1.5.97) that aims to upgrade just about every visual aspect of Skyrim, from the vanilla animations to the various points of interest around the game. This modlist features an array of meticulously handpicked assets, in-depth method patching for easy configuring, and custom edits and recolors for various mods to seamlessly tie everything together for an enhanced Skyrim experience.
+Ascensio is a comprehensive visual overhaul modlist for Skyrim Special Edition (v1.5.97) that aims to upgrade just about every visual aspect of Skyrim, from the vanilla animations to the various points of interest around the game. This modlist features an array of handpicked assets, in-depth method patching for easy configuring, along with custom edits and recolors for various mods to seamlessly tie everything together for an enhanced Skyrim experience.
 
 
 <div align="center">
