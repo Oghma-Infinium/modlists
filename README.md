@@ -3,16 +3,6 @@ Listed below is a short summary of all the modlists hosted on the **Waking Dream
 
 <div align="center">
 
-## Ascalon
-[ [ReadMe](https://github.com/Oghma-Infinium/Ascalon/blob/main/README.md) | [Changelog](https://github.com/Oghma-Infinium/Ascalon/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Ascalon/blob/main/Documentation/FAQ.md) ]
-</div>
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Ascalon/main/Media/Ascalon.png)
-
-Ascalon is a lightly modded modlist for Dragon's Dogma that is designed around educational and experimental purposes. It primarily consists of mods from [LDKSuperDante](https://www.nexusmods.com/dragonsdogma/users/23347084?tab=user+files) and includes templates that allow for additional customization of the list.
-
-<div align="center">
-
 ## Ascensio
 [ [ReadMe](https://github.com/Oghma-Infinium/Ascensio) | [Changelog](https://github.com/Oghma-Infinium/Ascensio/blob/main/CHANGELOG.md) ]
 </div>
