@@ -109,21 +109,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/Vagabond%20WJ%20Banner.webp",
       "readme": "https://github.com/Oghma-Infinium/Vagabond/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Vagabond.wabbajack_f746ac7f-5389-4b5f-aa95-87975ab44542",
+      "download": "https://authored-files.wabbajack.org/Vagabond.wabbajack_93bef1dd-d9e4-4dab-9942-2af39423c4de",
       "machineURL": "vagabond",
       "discordURL": "https://discord.gg/wakingdreams"
     },
     "download_metadata": {
-      "Hash": "/+jZMWPIGN4=",
-      "Size": 1653033516,
-      "NumberOfArchives": 4719,
-      "SizeOfArchives": 458469031284,
-      "NumberOfInstalledFiles": 451893,
-      "SizeOfInstalledFiles": 643788446965
+      "Hash": "WGCWdCHBBY0=",
+      "Size": 1616752172,
+      "NumberOfArchives": 4722,
+      "SizeOfArchives": 458401598184,
+      "NumberOfInstalledFiles": 451383,
+      "SizeOfInstalledFiles": 643657975014
     },
-    "version": "1.2.1",
+    "version": "1.2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-02-17T01:53:03.3629305Z",
+    "dateUpdated": "2024-02-18T21:57:38.8888914Z",
     "repositoryName": ""
   }
 ]
