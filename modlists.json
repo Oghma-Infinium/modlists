@@ -125,5 +125,39 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-02-18T21:57:38.8888914Z",
     "repositoryName": ""
-  }
+  },
+  {
+    "title": "Malignance",
+    "description": "Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that aims to improve what it can for a game that's partially unfinished, 12 years old and difficult to mod. It also serves as a base for extensive modding and customization, as it features an array of custom made mods designed to give players more of a choice to change things to their liking as modding DD:DA is normally extremely hard.",
+    "author": "Maelstrom",
+    "maintainers": [
+      "github/Maelstrom8",
+      "github/bingusthecatto"
+    ],
+    "game": "dragonsdogma",
+    "tags": [
+      "They're Masterworks All You Can't Go Wrong",
+      "Educational",
+      "Customization"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/images/ListBanner.webp",
+      "readme": "https://github.com/Oghma-Infinium/Malignance/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Malignance.wabbajack_792f92a8-d788-4eac-ac29-a3548e3ca253",
+      "machineURL": "malignance",
+      "discordURL": "https://discord.gg/wakingdreams"
+    },
+    "download_metadata": {
+      "Hash": "OgzYQ/+RYNc=",
+      "Size": 5215199,
+      "NumberOfArchives": 74,
+      "SizeOfArchives": 8762714648,
+      "NumberOfInstalledFiles": 3306,
+      "SizeOfInstalledFiles": 8674138090
+    }
 ]
