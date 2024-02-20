@@ -149,21 +149,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/images/ListBanner.webp",
       "readme": "https://github.com/Oghma-Infinium/Malignance/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Malignance.wabbajack_c9cacef3-ac8d-460c-a2bd-5e9c4d928c5c",
+      "download": "https://authored-files.wabbajack.org/Malignance.wabbajack_dd829669-5fd9-4cd7-aaf8-b4f464d3fddb",
       "machineURL": "malignance",
       "discordURL": "https://discord.gg/wakingdreams"
     },
     "download_metadata": {
-      "Hash": "KHUC+ChoBh8=",
-      "Size": 7303500,
+      "Hash": "qvq6wizMxtM=",
+      "Size": 5349745,
       "NumberOfArchives": 74,
       "SizeOfArchives": 8762714648,
       "NumberOfInstalledFiles": 3306,
-      "SizeOfInstalledFiles": 8674137761
+      "SizeOfInstalledFiles": 8674137762
     },
     "version": "2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-02-20T05:50:01.7279278Z",
+    "dateUpdated": "2024-02-20T05:52:42.9226151Z",
     "repositoryName": ""
   }
 ]
