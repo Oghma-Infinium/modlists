@@ -147,7 +147,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/images/ListBanner.webp",
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/media/ListBanner.webp",
       "readme": "https://github.com/Oghma-Infinium/Malignance/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Malignance.wabbajack_dd829669-5fd9-4cd7-aaf8-b4f464d3fddb",
       "machineURL": "malignance",
