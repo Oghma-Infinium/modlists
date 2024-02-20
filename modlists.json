@@ -128,15 +128,16 @@
   },
   {
     "title": "Malignance",
-    "description": "Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that aims to improve what it can for a game that's partially unfinished, 12 years old and difficult to mod. It also serves as a base for extensive modding and customization, as it features an array of custom made mods designed to give players more of a choice to change things to their liking as modding DD:DA is normally extremely hard.",
+    "description": "Malignance is a lightly modded list for Dragon\u0027s Dogma: Dark Arisen that aims to improve what it can for a game that\u0027s partially unfinished, 12 years old and difficult to mod. It also serves as a base for extensive modding and customization, as it features an array of custom made mods designed to give players more of a choice to change things to their liking as modding DD:DA is normally extremely hard.",
     "author": "Maelstrom",
     "maintainers": [
       "github/Maelstrom8",
       "github/bingusthecatto"
     ],
     "game": "dragonsdogma",
+    "official": false,
     "tags": [
-      "They're Masterworks All You Can't Go Wrong",
+      "They\u0027re Masterworks All You Can\u0027t Go Wrong",
       "Educational",
       "Customization"
     ],
@@ -148,18 +149,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/images/ListBanner.webp",
       "readme": "https://github.com/Oghma-Infinium/Malignance/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Malignance.wabbajack_792f92a8-d788-4eac-ac29-a3548e3ca253",
+      "download": "https://authored-files.wabbajack.org/Malignance.wabbajack_8e95417b-f5ed-4e2e-9db8-7a3545761aaf",
       "machineURL": "malignance",
       "discordURL": "https://discord.gg/wakingdreams"
     },
     "download_metadata": {
-      "Hash": "OgzYQ/+RYNc=",
-      "Size": 5215199,
+      "Hash": "+7DHqkOiqr8=",
+      "Size": 5215281,
       "NumberOfArchives": 74,
       "SizeOfArchives": 8762714648,
       "NumberOfInstalledFiles": 3306,
-      "SizeOfInstalledFiles": 8674138090
+      "SizeOfInstalledFiles": 8674138166
     },
-      "version": "2.0.0"
-    }
+    "version": "2.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-02-20T05:43:10.0174327Z",
+    "repositoryName": ""
+  }
 ]
