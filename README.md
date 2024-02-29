@@ -20,7 +20,7 @@ Ascensio is a comprehensive visual overhaul modlist for Skyrim Special Edition (
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/NexusHeader.png)
 
-Fahluaan (fa·lu·an) is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.
+Fahluaan is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.
 
 
 <div align="center">
@@ -43,3 +43,13 @@ Vagabond is a Skyrim modlist for Anniversary Edition with a focus on visuals, mo
 ![](https://i.imgur.com/FxdAIzS.png)
 
 Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that aims to improve what it can for a game that's partially unfinished, 12 years old and difficult to mod. It also serves as a base for extensive modding and customization, as it features an array of custom made mods designed to give players more of a choice to change things to their liking as modding DD:DA is normally extremely hard.
+
+<div align="center">
+
+## Morning Star
+[ [ReadMe](https://github.com/Oghma-Infinium/Morning-Star) | [Changelog](https://github.com/Oghma-Infinium/Morning-Star/blob/main/CHANGELOG.md) ]
+</div>
+
+![](https://raw.githubusercontent.com/Oghma-Infinium/Morning-Star/main/images/Header.png)
+
+Morning Star is a simple and performance friendly modlist built around Simon Magus' series of gameplay overhauls.
