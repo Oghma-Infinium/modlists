@@ -165,5 +165,45 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-02-20T06:10:29.2720096Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Morning Star",
+    "description": "Morning Star is a simple and performance friendly modlist built around Simon Magus' series of gameplay overhauls.",
+    "author": "Ender",
+    "maintainers": [
+      "github/Ender108",
+      "github/bingusthecatto"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "SimonRim",
+      "Survival",
+      "Performance"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Morning-Star/main/images/Banner.webp",
+      "readme": "https://github.com/Oghma-Infinium/Morning-Star/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Morning%20Star.wabbajack_b373e4df-2fc9-41c9-8a03-854be3fc85a6",
+      "machineURL": "morningstar",
+      "discordURL": "https://discord.gg/wakingdreams"
+    },
+    "download_metadata": {
+      "Hash": "OmULyJvxjtA=",
+      "Size": 95597405,
+      "NumberOfArchives": 499,
+      "SizeOfArchives": 56040956914,
+      "NumberOfInstalledFiles": 69927,
+      "SizeOfInstalledFiles": 67589385214
+    },
+    "version": "1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-02-27T23:31:48.3237091Z",
+    "repositoryName": ""
   }
 ]
