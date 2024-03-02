@@ -189,21 +189,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Morning-Star/main/images/Banner.webp",
       "readme": "https://github.com/Oghma-Infinium/Morning-Star/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_55061312-e326-4c43-a1b9-5843e5a82e69",
+      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_5d17b121-a6ba-4747-8a58-aab26bcb7fad",
       "machineURL": "morningstar",
       "discordURL": "https://discord.gg/wakingdreams"
     },
     "download_metadata": {
-      "Hash": "UXK2z3b3334=",
-      "Size": 95598874,
-      "NumberOfArchives": 499,
-      "SizeOfArchives": 56191577075,
-      "NumberOfInstalledFiles": 69978,
-      "SizeOfInstalledFiles": 67617274205
+      "Hash": "leb3Mn+Lihc=",
+      "Size": 97155743,
+      "NumberOfArchives": 502,
+      "SizeOfArchives": 56135163098,
+      "NumberOfInstalledFiles": 50401,
+      "SizeOfInstalledFiles": 65505114085
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-02T02:33:25.0492863Z",
+    "dateUpdated": "2024-03-02T20:59:24.0516821Z",
     "repositoryName": ""
   }
 ]
