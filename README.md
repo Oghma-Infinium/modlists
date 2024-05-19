@@ -15,24 +15,12 @@ Ascensio is a comprehensive visual overhaul modlist for Skyrim Special Edition (
 <div align="center">
 
 ## Fahluaan
-[ [ReadMe](https://github.com/Oghma-Infinium/Fahluaan) | [Changelog](https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) ]
+[ [ReadMe](https://github.com/Oghma-Infinium/Fahluaan) | [Changelog](https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) | [Gameplay Guide](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md) ]
 </div>
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/NexusHeader.png)
 
 Fahluaan is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.
-
-
-<div align="center">
-
-## Vagabond
-[ [ReadMe](https://github.com/Oghma-Infinium/Vagabond) | [Changelog](https://github.com/Oghma-Infinium/Vagabond) | [FAQ](https://github.com/Oghma-Infinium/Vagabond/blob/main/Documentation/FAQ.md) ]
-</div>
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/Vagabond%20Nexus%20Header%202.png)
-
-Vagabond is a Skyrim modlist for Anniversary Edition with a focus on visuals, modern combat, and Legacy of the Dragonborn. Enairim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. A wide array of monster, weapon, armor, spell and location overhauls are included to make the world more diverse. This list also has full seasons support, including unfreezing of snowy areas during summer.
-
 
 <div align="center">
 
@@ -53,3 +41,15 @@ Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that aims to
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Morning-Star/main/images/Header.png)
 
 Morning Star is a simple and performance friendly modlist built around Simon Magus' series of gameplay overhauls.
+
+<div align="center">
+
+## Revenant
+[ [ReadMe](https://github.com/Oghma-Infinium/Revenant) | [Changelog](https://github.com/Oghma-Infinium/Revenant/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/FAQ.md) | [Gameplay Guide](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/GAMEPLAY.md) ]
+</div>
+
+![](https://raw.githubusercontent.com/Oghma-Infinium/Revenant/main/images/header.png)
+
+Revenant is a modlist for Skyrim Special Edition, based on Requiem 3Tweaks, a total game overhaul, combined with modern action combat, including Attack - MCO, SCAR and TKdodge RE. Features light survival mechanics with Starfrost, Campsite and Simple Hunting Overhaul.
+
+Beware that this list is very difficult. Only enter if you're ready for a serious challenge.
