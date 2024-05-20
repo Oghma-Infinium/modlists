@@ -231,21 +231,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Revenant/main/images/banner.webp",
       "readme": "https://github.com/Oghma-Infinium/Revenant",
-      "download": "https://authored-files.wabbajack.org/Revenant.wabbajack_d7e70add-1d7b-4df5-bb90-eba8d9539b20",
+      "download": "https://authored-files.wabbajack.org/Revenant.wabbajack_5b6ade6c-4d10-48e4-bf21-a3e59339272f",
       "machineURL": "revenant",
       "discordURL": "https://discord.gg/wakingdreams"
     },
     "download_metadata": {
-      "Hash": "qEPL/beOK9w=",
-      "Size": 1313355094,
-      "NumberOfArchives": 3859,
-      "SizeOfArchives": 335999162400,
-      "NumberOfInstalledFiles": 534415,
-      "SizeOfInstalledFiles": 448686818154
+      "Hash": "lxxeTh4TFFo=",
+      "Size": 1314445337,
+      "NumberOfArchives": 3885,
+      "SizeOfArchives": 336015760167,
+      "NumberOfInstalledFiles": 534119,
+      "SizeOfInstalledFiles": 448680553020
     },
-    "version": "0.2.5",
+    "version": "0.2.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-18T12:51:08Z",
+    "dateUpdated": "2024-05-20T12:18:35.380189Z",
     "repositoryName": ""
   }
 ]
