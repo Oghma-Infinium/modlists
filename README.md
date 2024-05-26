@@ -41,15 +41,3 @@ Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that aims to
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Morning-Star/main/images/Header.png)
 
 Morning Star is a simple and performance friendly modlist built around Simon Magus' series of gameplay overhauls.
-
-<div align="center">
-
-## Revenant
-[ [ReadMe](https://github.com/Oghma-Infinium/Revenant) | [Changelog](https://github.com/Oghma-Infinium/Revenant/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/FAQ.md) | [Gameplay Guide](https://github.com/Oghma-Infinium/Revenant/blob/main/Documentation/GAMEPLAY.md) ]
-</div>
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Revenant/main/images/header.png)
-
-Revenant is a modlist for Skyrim Special Edition, based on Requiem 3Tweaks, a total game overhaul, combined with modern action combat, including Attack - MCO, SCAR and TKdodge RE. Features light survival mechanics with Starfrost, Campsite and Simple Hunting Overhaul.
-
-Beware that this list is very difficult. Only enter if you're ready for a serious challenge.
