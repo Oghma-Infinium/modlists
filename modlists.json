@@ -204,48 +204,5 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-03-05T13:34:18.5332895Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Revenant",
-    "description": "Modlist for Skyrim Special Edition based on Requiem 3Tweaks, with modern action combat and light survival mechanics. (At least 12GB of GPU VRAM is required for this modlist)",
-    "author": "Ylikollikas",
-    "maintainers": [
-      "github/ylikollikas",
-      "github/bingusthecatto"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Skyrim Special Edition",
-      "Requiem",
-      "Survival",
-      "MCO",
-      "Seasons",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Revenant/main/images/banner.webp",
-      "readme": "https://github.com/Oghma-Infinium/Revenant",
-      "download": "https://authored-files.wabbajack.org/Revenant.wabbajack_8acdb054-c949-4c00-b593-23fa31e86671",
-      "machineURL": "revenant",
-      "discordURL": "https://discord.gg/wakingdreams"
-    },
-    "download_metadata": {
-      "Hash": "logC68CRadg=",
-      "Size": 1847120423,
-      "NumberOfArchives": 3900,
-      "SizeOfArchives": 336199516330,
-      "NumberOfInstalledFiles": 535116,
-      "SizeOfInstalledFiles": 449567991359
-    },
-    "version": "0.2.8",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-25T16:32:53.5704487Z",
-    "repositoryName": ""
   }
 ]
