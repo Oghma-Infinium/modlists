@@ -82,50 +82,6 @@
     "repositoryName": ""
   },
   {
-    "title": "Vagabond",
-    "description": "!!!THIS LIST IS NO LONGER SUPPORTED!!! Vagabond is a modlist for Skyrim Special Edition with a focus on visuals, modern combat, and Legacy of the Dragonborn. (At least 16GB of GPU VRAM is required for this modlist)",
-    "author": "Ylikollikas",
-    "maintainers": [
-      "github/ylikollikas",
-      "github/bingusthecatto"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Anniversary Edition",
-      "Seasons",
-      "Visuals",
-      "EnaiRim",
-      "MCO",
-      "LotD",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/Vagabond%20WJ%20Banner.webp",
-      "readme": "https://github.com/Oghma-Infinium/Vagabond/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Vagabond.wabbajack_cd6c6213-1140-4433-9f5d-9ee7e046346c",
-      "machineURL": "vagabond",
-      "discordURL": "https://discord.gg/wakingdreams"
-    },
-    "download_metadata": {
-      "Hash": "1Rlknv+m1Ow=",
-      "Size": 1576170609,
-      "NumberOfArchives": 4864,
-      "SizeOfArchives": 467398597636,
-      "NumberOfInstalledFiles": 460198,
-      "SizeOfInstalledFiles": 642534735205
-    },
-    "version": "1.2.14",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-03T15:20:46.7604097Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Malignance",
     "description": "A lightly modded list for Dragon\u0027s Dogma: Dark Arisen that serves as a base for extensive modding and customization.",
     "author": "Maelstrom",
