@@ -163,7 +163,7 @@
   },
   {
     "title": "Apostasy",
-    "description": "Apostasy is a Wabbajack modlist for Skyrim SE that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.",
+    "description": "Apostasy is a modlist for Skyrim SE that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.",
     "author": "aljo",
     "maintainers": [
       "github/aljoxo",
@@ -186,17 +186,17 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_24c27a24-896f-4a45-9a6a-bb5b4ff6812e",
+      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_ec5e9641-96b6-4181-93a0-b29530031291",
       "machineURL": "apostasy",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
-      "Hash":"sHqUjJ2TlIA=",
-      "Size":1041463016,
-      "NumberOfArchives":2885,
-      "SizeOfArchives":172376366492,
-      "NumberOfInstalledFiles":236695,
-      "SizeOfInstalledFiles":254406199706
+      "Hash":"H4agW82cX0A=",
+      "Size":1036504200,
+      "NumberOfArchives":2888,
+      "SizeOfArchives":172437867502,
+      "NumberOfInstalledFiles":237383,
+      "SizeOfInstalledFiles":254433258645
     },
     "version": "1.0.0",
     "dateCreated": "",
