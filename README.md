@@ -3,13 +3,23 @@ Listed below is a short summary of all the modlists hosted on the **Waking Dream
 
 <div align="center">
 
+## Apostasy
+[ [ReadMe](https://github.com/Oghma-Infinium/Apostasy) | [Changelog](https://github.com/Oghma-Infinium/Apostasy/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/FAQ.md) | [Gameplay Guide](https://github.com/Oghma-Infinium/Apostasy/blob/main/GAMEPLAY.md) ]
+</div>
+
+![](https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/nexusheader.png)
+
+Apostasy is a Wabbajack modlist for Skyrim Special Edition that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.
+
+<div align="center">
+
 ## Ascensio
 [ [ReadMe](https://github.com/Oghma-Infinium/Ascensio) | [Changelog](https://github.com/Oghma-Infinium/Ascensio/blob/main/CHANGELOG.md) ]
 </div>
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/Media/Ascensio%20Header.png)
 
-Ascensio is a comprehensive visual overhaul modlist for Skyrim Special Edition (v1.5.97) that aims to upgrade just about every visual aspect of Skyrim, from the vanilla animations to the various points of interest around the game. This modlist features an array of handpicked assets, in-depth method patching for easy configuring, along with custom edits and recolors for various mods to seamlessly tie everything together for an enhanced Skyrim experience.
+Ascensio is a comprehensive visual overhaul modlist for Skyrim Special Edition that aims to upgrade just about every visual aspect of Skyrim, from the vanilla animations to the various points of interest around the game. This modlist features an array of handpicked assets, in-depth method patching for easy configuring, along with custom edits and recolors for various mods to seamlessly tie everything together for an enhanced Skyrim experience.
 
 
 <div align="center">
