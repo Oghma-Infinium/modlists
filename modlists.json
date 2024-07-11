@@ -160,5 +160,47 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-03-05T13:34:18.5332895Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Apostasy",
+    "description": "Apostasy is a modlist for Skyrim SE that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.",
+    "author": "aljo",
+    "maintainers": [
+      "github/aljoxo",
+      "github/bingusthecatto"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "MCO",
+      "Balanced",
+      "Visuals",
+      "Custom Content",
+      "Skyrim Special Edition"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
+      "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_ec5e9641-96b6-4181-93a0-b29530031291",
+      "machineURL": "apostasy",
+      "discordURL": "https://discord.gg/WakingDreams"
+    },
+    "download_metadata": {
+      "Hash":"H4agW82cX0A=",
+      "Size":1036504200,
+      "NumberOfArchives":2888,
+      "SizeOfArchives":172437867502,
+      "NumberOfInstalledFiles":237383,
+      "SizeOfInstalledFiles":254433258645
+    },
+    "version": "1.0.0",
+    "dateCreated": "",
+    "dateUpdated": "",
+    "repositoryName": ""
   }
 ]
