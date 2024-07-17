@@ -186,21 +186,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_52c03c5e-c2c9-4e9e-8042-33c152b0f6fc",
+      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_2c69568d-a353-4adb-9a72-e8da7bcc13ba",
       "machineURL": "apostasy",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
-      "Hash": "/odKU5tMCYc=",
-      "Size": 1076064293,
-      "NumberOfArchives": 2899,
-      "SizeOfArchives": 171105781218,
-      "NumberOfInstalledFiles": 240595,
-      "SizeOfInstalledFiles": 255169342705
+      "Hash": "pYGRiszOhSY=",
+      "Size": 1077289282,
+      "NumberOfArchives": 2903,
+      "SizeOfArchives": 171437341027,
+      "NumberOfInstalledFiles": 240686,
+      "SizeOfInstalledFiles": 255343438082
     },
-    "version": "1.0.7",
+    "version": "1.0.8",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-07-16T05:28:41.5637636Z",
+    "dateUpdated": "2024-07-17T03:19:50.8157293Z",
     "repositoryName": ""
   }
 ]
