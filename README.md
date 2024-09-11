@@ -13,17 +13,6 @@ Apostasy is a Wabbajack modlist for Skyrim Special Edition that offers a modern,
 
 <div align="center">
 
-## Ascensio
-[ [ReadMe](https://github.com/Oghma-Infinium/Ascensio) | [Changelog](https://github.com/Oghma-Infinium/Ascensio/blob/main/CHANGELOG.md) ]
-</div>
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/Media/Ascensio%20Header.png)
-
-Ascensio is a comprehensive visual overhaul modlist for Skyrim Special Edition that aims to upgrade just about every visual aspect of Skyrim, from the vanilla animations to the various points of interest around the game. This modlist features an array of handpicked assets, in-depth method patching for easy configuring, along with custom edits and recolors for various mods to seamlessly tie everything together for an enhanced Skyrim experience.
-
-
-<div align="center">
-
 ## Fahluaan
 [ [ReadMe](https://github.com/Oghma-Infinium/Fahluaan) | [Changelog](https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) | [Gameplay Guide](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md) ]
 </div>
