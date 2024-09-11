@@ -1,46 +1,5 @@
 [
   {
-    "title": "Ascensio",
-    "description": "Ascensio is a comprehensive visual overhaul modlist for Skyrim Special Edition (v1.5.97) that aims to upgrade just about every visual aspect of Skyrim, from the vanilla animations to the various points of interest around the game.",
-    "author": "Bingus",
-    "maintainers": [
-      "github/aljoxo",
-      "github/bingusthecatto"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Special Edition",
-      "Visuals Only",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/Media/Ascensio%20WJ%20Header.webp",
-      "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Ascensio/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascensio.wabbajack_24cc74ab-015a-4ae0-8831-bb9fd1339c24",
-      "machineURL": "ascensio",
-      "discordURL": "https://discord.gg/WakingDreams"
-    },
-    "download_metadata": {
-      "Hash": "JBJTAt+MfzI=",
-      "Size": 1227684377,
-      "NumberOfArchives": 1170,
-      "SizeOfArchives": 117872503454,
-      "NumberOfInstalledFiles": 97045,
-      "SizeOfInstalledFiles": 125053846128
-    },
-    "version": "3.4.2",
-    "dateCreated": "2023-04-02T00:00:00",
-    "dateUpdated": "2024-01-18T00:27:06.2542618Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Fahluaan",
     "description": "Fahluaan is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.",
     "author": "aljo",
