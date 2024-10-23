@@ -25,7 +25,8 @@
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
       "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_a8ecbba3-9acd-4b1f-abce-1e7a871687b6",
       "machineURL": "fahluaan",
-      "discordURL": "https://discord.gg/WakingDreams"
+      "discordURL": "https://discord.gg/WakingDreams",
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/87820"
     },
     "download_metadata": {
       "Hash": "y/fhxNWXkxQ=",
@@ -38,46 +39,6 @@
     "version": "2.3.3",
     "dateCreated": "2023-07-24T00:00:00",
     "dateUpdated": "2024-08-23T03:23:45.5674827Z",
-    "repositoryName": ""
-  },
-  {
-    "title": "Malignance",
-    "description": "A lightly modded list for Dragon\u0027s Dogma: Dark Arisen that serves as a base for extensive modding and customization.",
-    "author": "Maelstrom",
-    "maintainers": [
-      "github/Maelstrom8",
-      "github/bingusthecatto"
-    ],
-    "game": "dragonsdogma",
-    "official": false,
-    "tags": [
-      "They\u0027re Masterworks All You Can\u0027t Go Wrong",
-      "Educational",
-      "Customization"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Malignance/main/Media/ListBanner.webp",
-      "readme": "https://github.com/Oghma-Infinium/Malignance/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Malignance.wabbajack_d841621d-599e-4249-9fc6-7f212a17ef76",
-      "machineURL": "malignance",
-      "discordURL": "https://discord.gg/wakingdreams"
-    },
-    "download_metadata": {
-      "Hash": "kITuguOZK/k=",
-      "Size": 5349767,
-      "NumberOfArchives": 74,
-      "SizeOfArchives": 8762714648,
-      "NumberOfInstalledFiles": 3306,
-      "SizeOfInstalledFiles": 8674137764
-    },
-    "version": "2.0.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-02-20T06:10:29.2720096Z",
     "repositoryName": ""
   },
   {
@@ -147,7 +108,8 @@
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
       "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_85cfbb92-6328-4fd6-a85b-4a56f9114991",
       "machineURL": "apostasy",
-      "discordURL": "https://discord.gg/WakingDreams"
+      "discordURL": "https://discord.gg/WakingDreams",
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/118893"
     },
     "download_metadata": {
       "Hash": "NPs7Xv45hTA=",
