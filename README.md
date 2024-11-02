@@ -23,16 +23,6 @@ Fahluaan is a comprehensive modlist for Skyrim Anniversary Edition that focuses 
 
 <div align="center">
 
-## Malignance
-[ [ReadMe](https://github.com/Oghma-Infinium/Malignance/blob/main/README.md) | [Documentation](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation) | [Changelog](https://github.com/Oghma-Infinium/Malignance/blob/main/CHANGELOG.md") | [FAQ](https://github.com/Oghma-Infinium/Malignance/blob/main/Documentation/FAQ.md) ]
-</div>
-
-![](https://i.imgur.com/FxdAIzS.png)
-
-Malignance is a lightly modded list for Dragon's Dogma: Dark Arisen that aims to improve what it can for a game that's partially unfinished, 12 years old and difficult to mod. It also serves as a base for extensive modding and customization, as it features an array of custom made mods designed to give players more of a choice to change things to their liking as modding DD:DA is normally extremely hard.
-
-<div align="center">
-
 ## Morning Star
 [ [ReadMe](https://github.com/Oghma-Infinium/Morning-Star) | [Changelog](https://github.com/Oghma-Infinium/Morning-Star/blob/main/CHANGELOG.md) ]
 </div>
