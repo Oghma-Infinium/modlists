@@ -25,8 +25,7 @@
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
       "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_a8ecbba3-9acd-4b1f-abce-1e7a871687b6",
       "machineURL": "fahluaan",
-      "discordURL": "https://discord.gg/WakingDreams",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/87820"
+      "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
       "Hash": "y/fhxNWXkxQ=",
@@ -106,22 +105,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_85cfbb92-6328-4fd6-a85b-4a56f9114991",
+      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_d3fc6087-a86e-42da-89e2-9f2939ba525b",
       "machineURL": "apostasy",
-      "discordURL": "https://discord.gg/WakingDreams",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/118893"
+      "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
-      "Hash": "NPs7Xv45hTA=",
-      "Size": 1041821297,
-      "NumberOfArchives": 3027,
-      "SizeOfArchives": 175944481560,
-      "NumberOfInstalledFiles": 260963,
-      "SizeOfInstalledFiles": 265101105233
+      "Hash": "mvbcjiteyB0=",
+      "Size": 960258098,
+      "NumberOfArchives": 3159,
+      "SizeOfArchives": 182645648079,
+      "NumberOfInstalledFiles": 287081,
+      "SizeOfInstalledFiles": 279212197984
     },
-    "version": "1.1.6",
+    "version": "2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-16T17:36:29.586898Z",
+    "dateUpdated": "2024-11-15T20:32:14.5756592Z",
     "repositoryName": ""
   }
 ]
