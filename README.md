@@ -20,13 +20,3 @@ Apostasy is a Wabbajack modlist for Skyrim Special Edition that offers a modern,
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/NexusHeader.png)
 
 Fahluaan is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.
-
-<div align="center">
-
-## Morning Star
-[ [ReadMe](https://github.com/Oghma-Infinium/Morning-Star) | [Changelog](https://github.com/Oghma-Infinium/Morning-Star/blob/main/CHANGELOG.md) ]
-</div>
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Morning-Star/main/images/Header.png)
-
-Morning Star is a simple and performance friendly modlist built around Simon Magus' series of gameplay overhauls.
