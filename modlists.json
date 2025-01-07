@@ -41,46 +41,6 @@
     "repositoryName": ""
   },
   {
-    "title": "Morning Star",
-    "description": "Morning Star is a simple and performance friendly modlist built around Simon Magus\u0027 series of gameplay overhauls.",
-    "author": "Ender",
-    "maintainers": [
-      "github/Ender108",
-      "github/bingusthecatto"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "SimonRim",
-      "Survival",
-      "Performance"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Morning-Star/main/images/Banner.webp",
-      "readme": "https://github.com/Oghma-Infinium/Morning-Star/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_ac0a781e-9c77-43e2-b6be-1d6ec4798c54",
-      "machineURL": "morningstar",
-      "discordURL": "https://discord.gg/wakingdreams"
-    },
-    "download_metadata": {
-      "Hash": "Lpr8OfSdQxk=",
-      "Size": 97158571,
-      "NumberOfArchives": 503,
-      "SizeOfArchives": 56299581088,
-      "NumberOfInstalledFiles": 50496,
-      "SizeOfInstalledFiles": 65763670722
-    },
-    "version": "1.0.4",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-05T13:34:18.5332895Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Apostasy",
     "description": "Apostasy is a modlist for Skyrim SE that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.",
     "author": "aljo",
