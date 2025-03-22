@@ -25,7 +25,8 @@
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
       "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_8dff1adc-16a7-4294-8436-a7880cefeebe",
       "machineURL": "fahluaan",
-      "discordURL": "https://discord.gg/4WwqfK5yHg"
+      "discordURL": "https://discord.gg/4WwqfK5yHg",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "8Es60iJ41fo=",
@@ -33,7 +34,8 @@
       "NumberOfArchives": 2850,
       "SizeOfArchives": 210581720733,
       "NumberOfInstalledFiles": 279087,
-      "SizeOfInstalledFiles": 279232576970
+      "SizeOfInstalledFiles": 279232576970,
+      "TotalSize": 489814297703
     },
     "version": "2.3.4",
     "dateCreated": "2023-07-24T00:00:00",
@@ -66,21 +68,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_e940699c-1958-41e8-8635-cbfaa6d61e18",
+      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_7e5e3217-cec8-43da-b472-714f461c2972",
       "machineURL": "apostasy",
-      "discordURL": "https://discord.gg/4WwqfK5yHg"
+      "discordURL": "https://discord.gg/4WwqfK5yHg",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "w55FaPh8U40=",
-      "Size": 966484149,
-      "NumberOfArchives": 3169,
-      "SizeOfArchives": 183466898133,
-      "NumberOfInstalledFiles": 286773,
-      "SizeOfInstalledFiles": 281336162223
+      "Hash": "eMtQDJbRBrk=",
+      "Size": 1499545325,
+      "NumberOfArchives": 3333,
+      "SizeOfArchives": 191580408021,
+      "NumberOfInstalledFiles": 307251,
+      "SizeOfInstalledFiles": 289390188588,
+      "TotalSize": 480970596609
     },
-    "version": "2.1.6",
+    "version": "3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-15T22:32:49.9968601Z",
+    "dateUpdated": "2025-03-22T20:03:16.8011923Z",
     "repositoryName": ""
   },
   {
@@ -111,7 +115,8 @@
       "readme": "https://raw.githubusercontent.com/Althro/Anvil/main/README.md",
       "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_4831b7b0-fc68-4c8f-aea8-9abeeefc9bb0",
       "machineURL": "ANVIL",
-      "discordURL": "https://discord.gg/4WwqfK5yHg"
+      "discordURL": "https://discord.gg/4WwqfK5yHg",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "02ofN2EGTBA=",
@@ -119,7 +124,8 @@
       "NumberOfArchives": 810,
       "SizeOfArchives": 79816240303,
       "NumberOfInstalledFiles": 85931,
-      "SizeOfInstalledFiles": 86121765451
+      "SizeOfInstalledFiles": 86121765451,
+      "TotalSize": 165938005754
     },
     "version": "2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
