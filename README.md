@@ -3,6 +3,16 @@ Listed below is a short summary of all the modlists hosted on the **Waking Dream
 
 <div align="center">
 
+## Anvil
+[ [ReadMe](https://github.com/Oghma-Infinium/Anvil) | [Changelog](https://github.com/Oghma-Infinium/Anvil/blob/main/CHANGELOG.md) ]
+</div>
+
+![](https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png)
+
+Anvil is designed as a forge for creating on. It can be used to build your own list, create mods, and also be played as is. It is fully documented with all changes and tweaks to mods being detailed in the notes part of Mod Organizer 2, and aims to be light in its footprint.
+
+<div align="center">
+
 ## Apostasy
 [ [ReadMe](https://github.com/Oghma-Infinium/Apostasy) | [Changelog](https://github.com/Oghma-Infinium/Apostasy/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/FAQ.md) | [Gameplay Guide](https://github.com/Oghma-Infinium/Apostasy/blob/main/GAMEPLAY.md) ]
 </div>
