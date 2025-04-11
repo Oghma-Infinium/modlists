@@ -89,8 +89,8 @@
   },
   {
     "title": "Anvil",
-    "description": "Anvil is designed as a baseline list to be used as either a forking base for a list or a mod development base. See the readme for more details.",
-    "author": "Althro",
+    "description": "Anvil is a modlist for Skyrim Special Edition (1.6.1170) focused solely on enhancing visuals, with Community Shaders at its core.",
+    "author": "Bingus and Althro",
     "maintainers": [
       "github/Althro",
       "github/Styyx1",
@@ -101,22 +101,21 @@
     "official": true,
     "tags": [
       "Official",
-      "Near Vanilla",
-      "NeverNude",
-      "Utility"
+      "Visuals Only",
+      "NeverNude"
     ],
     "nsfw": false,
-    "utility_list": true,
+    "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png",
-      "readme": "https://raw.githubusercontent.com/Althro/Anvil/main/README.md",
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Anvil/refs/heads/main/Media/Anvil%20Banner.png",
+      "readme": "https://github.com/Oghma-Infinium/Anvil",
       "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_c71c1958-23e5-490c-a6d1-d227ec71f672",
       "machineURL": "ANVIL",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
-      "websiteURL": ""
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/147302"
     },
     "download_metadata": {
       "Hash": "6WTJX2MAW/Q=",
