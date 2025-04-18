@@ -89,7 +89,7 @@
   },
   {
     "title": "Anvil",
-    "description": "Anvil is a modlist for Skyrim Special Edition (1.6.1170) focused solely on enhancing visuals, with Community Shaders at its core.",
+    "description": "Anvil is a visuals-only modlist for Skyrim Special Edition (1.6.1170) built around Community Shaders and designed as a foundation for users to customize and expand upon.",
     "author": "Bingus and Althro",
     "maintainers": [
       "github/Althro",
