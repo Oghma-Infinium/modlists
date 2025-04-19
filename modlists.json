@@ -10,10 +10,10 @@
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
-      "Official",
-      "Anniversary Edition",
-      "Balanced",
-      "NeverNude"
+      "DLC Required",
+      "SFW",
+      "Steam",
+      "Survival"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -53,12 +53,8 @@
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
-      "Official",
-      "MCO",
-      "Balanced",
-      "Visuals",
-      "Custom Content",
-      "Skyrim Special Edition"
+      "SFW",
+      "Steam"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -100,9 +96,9 @@
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
-      "Official",
-      "Visuals Only",
-      "NeverNude"
+      "SFW",
+      "Steam",
+      "Utility"
     ],
     "nsfw": false,
     "utility_list": false,
