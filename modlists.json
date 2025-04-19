@@ -110,7 +110,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Anvil/refs/heads/main/Media/Anvil%20Banner%20WEBP.webp",
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Anvil/main/Media/Anvil%20Banner%20WEBP.webp",
       "readme": "https://github.com/Oghma-Infinium/Anvil",
       "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_04b88b43-2a23-42b2-98a7-2fff95960702",
       "machineURL": "ANVIL",
