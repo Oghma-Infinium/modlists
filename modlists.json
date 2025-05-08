@@ -108,23 +108,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Anvil/main/Media/Anvil%20Banner%20WEBP.webp",
       "readme": "https://github.com/Oghma-Infinium/Anvil",
-      "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_9af44e5a-0a5b-4920-819f-56905aa6a2da",
+      "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_0eb20872-0816-48a2-8f84-05488337a509",
       "machineURL": "ANVIL",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/147302"
     },
     "download_metadata": {
-      "Hash": "QAAiATG0X4E=",
-      "Size": 1629069453,
+      "Hash": "g7QsbqwBVTc=",
+      "Size": 1629069709,
       "NumberOfArchives": 1055,
-      "SizeOfArchives": 96789667510,
+      "SizeOfArchives": 96789668806,
       "NumberOfInstalledFiles": 124506,
       "SizeOfInstalledFiles": 105629000495,
-      "TotalSize": 202418668005
+      "TotalSize": 202418669301
     },
     "version": "3.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-05-06T23:44:04.9843698Z",
+    "dateUpdated": "2025-05-08T04:55:27.0418199Z",
     "repositoryName": ""
   }
 ]
