@@ -1,176 +1,176 @@
 [
-    {
-        "title": "Fahluaan",
-        "description": "Fahluaan is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.",
-        "author": "aljo",
-        "maintainers": [
-            "github/aljoxo",
-            "github/bingusthecatto"
-        ],
-        "game": "skyrimspecialedition",
-        "official": true,
-        "tags": [
-            "DLC Required",
-            "SFW",
-            "Steam",
-            "Survival"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": false,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Bannernew.webp",
-            "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_8dff1adc-16a7-4294-8436-a7880cefeebe",
-            "machineURL": "fahluaan",
-            "discordURL": "https://discord.gg/4WwqfK5yHg",
-            "websiteURL": ""
-        },
-        "download_metadata": {
-            "Hash": "8Es60iJ41fo=",
-            "Size": 629161467,
-            "NumberOfArchives": 2850,
-            "SizeOfArchives": 210581720733,
-            "NumberOfInstalledFiles": 279087,
-            "SizeOfInstalledFiles": 279232576970,
-            "TotalSize": 489814297703
-        },
-        "version": "2.3.4",
-        "dateCreated": "2023-07-24T00:00:00",
-        "dateUpdated": "2024-12-04T15:52:31.5953092Z",
-        "repositoryName": ""
+  {
+    "title": "Fahluaan",
+    "description": "Fahluaan is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.",
+    "author": "aljo",
+    "maintainers": [
+      "github/aljoxo",
+      "github/bingusthecatto"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "DLC Required",
+      "SFW",
+      "Steam",
+      "Survival"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Bannernew.webp",
+      "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_8dff1adc-16a7-4294-8436-a7880cefeebe",
+      "machineURL": "fahluaan",
+      "discordURL": "https://discord.gg/4WwqfK5yHg",
+      "websiteURL": ""
     },
-    {
-        "title": "Apostasy",
-        "description": "Apostasy is a modlist for Skyrim SE that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.",
-        "author": "aljo",
-        "maintainers": [
-            "github/aljoxo",
-            "github/bingusthecatto"
-        ],
-        "game": "skyrimspecialedition",
-        "official": true,
-        "tags": [
-            "Combat Overhaul",
-            "SFW",
-            "Steam",
-            "Total Overhaul"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
-            "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_f2fe4450-a68b-439f-a05a-f253b327e070",
-            "machineURL": "apostasy",
-            "discordURL": "https://discord.gg/4WwqfK5yHg",
-            "websiteURL": ""
-        },
-        "download_metadata": {
-            "Hash": "p24crWyoFOk=",
-            "Size": 1516977978,
-            "NumberOfArchives": 3360,
-            "SizeOfArchives": 191746263034,
-            "NumberOfInstalledFiles": 299817,
-            "SizeOfInstalledFiles": 289914694808,
-            "TotalSize": 481660957842
-        },
-        "version": "3.1.3",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2025-05-19T17:28:37.8375042Z",
-        "repositoryName": ""
+    "download_metadata": {
+      "Hash": "8Es60iJ41fo=",
+      "Size": 629161467,
+      "NumberOfArchives": 2850,
+      "SizeOfArchives": 210581720733,
+      "NumberOfInstalledFiles": 279087,
+      "SizeOfInstalledFiles": 279232576970,
+      "TotalSize": 489814297703
     },
-    {
-        "title": "Anvil",
-        "description": "Anvil is a visuals-only modlist for Skyrim Special Edition (1.6.1170) built around Community Shaders and designed as a foundation for users to customize and expand upon.",
-        "author": "Bingus and Althro",
-        "maintainers": [
-            "github/Althro",
-            "github/Styyx1",
-            "github/Abandoned-1248",
-            "github/bingusthecatto"
-        ],
-        "game": "skyrimspecialedition",
-        "official": true,
-        "tags": [
-            "SFW",
-            "Steam",
-            "Utility"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/Oghma-Infinium/Anvil/main/Media/Anvil%20Banner%20WEBP.webp",
-            "readme": "https://github.com/Oghma-Infinium/Anvil",
-            "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_0eb20872-0816-48a2-8f84-05488337a509",
-            "machineURL": "ANVIL",
-            "discordURL": "https://discord.gg/4WwqfK5yHg",
-            "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/147302"
-        },
-        "download_metadata": {
-            "Hash": "g7QsbqwBVTc=",
-            "Size": 1629069709,
-            "NumberOfArchives": 1055,
-            "SizeOfArchives": 96789668806,
-            "NumberOfInstalledFiles": 124506,
-            "SizeOfInstalledFiles": 105629000495,
-            "TotalSize": 202418669301
-        },
-        "version": "3.1.1",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2025-05-08T04:55:27.0418199Z",
-        "repositoryName": ""
+    "version": "2.3.4",
+    "dateCreated": "2023-07-24T00:00:00",
+    "dateUpdated": "2024-12-04T15:52:31.5953092Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Apostasy",
+    "description": "Apostasy is a modlist for Skyrim SE that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.",
+    "author": "aljo",
+    "maintainers": [
+      "github/aljoxo",
+      "github/bingusthecatto"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Combat Overhaul",
+      "SFW",
+      "Steam",
+      "Total Overhaul"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
+      "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_f2fe4450-a68b-439f-a05a-f253b327e070",
+      "machineURL": "apostasy",
+      "discordURL": "https://discord.gg/4WwqfK5yHg",
+      "websiteURL": ""
     },
-    {
-        "title": "Twisted Skyrim",
-        "description": "A personal modlist I\u0027ve worked on for almost 4 years now, finally in a Wabbajack list! I give you my magnum opus. Features BFCO, DMCO\uFEFF, Precision, Maxsu\u0027s Block Overhaul\uFEFF\uFEFF, Maxsu\u0027s Poise\uFEFF, Maxsu\u0027s Stagger Lock\uFEFF, SCARv2\uFEFF, \u0026 Ultimate NPC Dodging\uFEFF. A completely new experience from the Skyrim you used to know.",
-        "author": "TwistedModding",
-        "maintainers": [
-            "github/TwistedModding"
-        ],
-        "game": "skyrimspecialedition",
-        "official": true,
-        "tags": [
-            "Official",
-            "Immersive",
-            "Graphics",
-            "Screen archery",
-            "Combat Overhaul",
-            "Simonrim"
-        ],
-        "nsfw": true,
-        "utility_list": false,
-        "image_contains_title": false,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/Oghma-Infinium/Twisted-Skyrim/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp",
-            "readme": "https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_36a9dabc-4e42-4152-882a-4fd41873628f",
-            "machineURL": "TwistedSkyrim",
-            "discordURL": "https://discord.gg/4WwqfK5yHg",
-            "websiteURL": ""
-        },
-        "download_metadata": {
-            "Hash": "+ndsVXzqTQw=",
-            "Size": 1475721610,
-            "NumberOfArchives": 4350,
-            "SizeOfArchives": 397442222091,
-            "NumberOfInstalledFiles": 436318,
-            "SizeOfInstalledFiles": 609769374666,
-            "TotalSize": 1007211596757
-        },
-        "version": "1.1.0.0",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2025-05-03T02:36:06.2848935Z",
-        "repositoryName": ""
-    }
+    "download_metadata": {
+      "Hash": "p24crWyoFOk=",
+      "Size": 1516977978,
+      "NumberOfArchives": 3360,
+      "SizeOfArchives": 191746263034,
+      "NumberOfInstalledFiles": 299817,
+      "SizeOfInstalledFiles": 289914694808,
+      "TotalSize": 481660957842
+    },
+    "version": "3.1.3",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-05-19T17:28:37.8375042Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Anvil",
+    "description": "Anvil is a visuals-only modlist for Skyrim Special Edition (1.6.1170) built around Community Shaders and designed as a foundation for users to customize and expand upon.",
+    "author": "Bingus and Althro",
+    "maintainers": [
+      "github/Althro",
+      "github/Styyx1",
+      "github/Abandoned-1248",
+      "github/bingusthecatto"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "SFW",
+      "Steam",
+      "Utility"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Anvil/main/Media/Anvil%20Banner%20WEBP.webp",
+      "readme": "https://github.com/Oghma-Infinium/Anvil",
+      "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_0eb20872-0816-48a2-8f84-05488337a509",
+      "machineURL": "ANVIL",
+      "discordURL": "https://discord.gg/4WwqfK5yHg",
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/147302"
+    },
+    "download_metadata": {
+      "Hash": "g7QsbqwBVTc=",
+      "Size": 1629069709,
+      "NumberOfArchives": 1055,
+      "SizeOfArchives": 96789668806,
+      "NumberOfInstalledFiles": 124506,
+      "SizeOfInstalledFiles": 105629000495,
+      "TotalSize": 202418669301
+    },
+    "version": "3.1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-05-08T04:55:27.0418199Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Twisted Skyrim",
+    "description": "A personal modlist I\u0027ve worked on for almost 4 years now, finally in a Wabbajack list! I give you my magnum opus. Features BFCO, DMCO\uFEFF, Precision, Maxsu\u0027s Block Overhaul\uFEFF\uFEFF, Maxsu\u0027s Poise\uFEFF, Maxsu\u0027s Stagger Lock\uFEFF, SCARv2\uFEFF, \u0026 Ultimate NPC Dodging\uFEFF. A completely new experience from the Skyrim you used to know.",
+    "author": "TwistedModding",
+    "maintainers": [
+      "github/TwistedModding"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Official",
+      "Immersive",
+      "Graphics",
+      "Screen archery",
+      "Combat Overhaul",
+      "Simonrim"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Twisted-Skyrim/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp",
+      "readme": "https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_4047ac11-f607-4676-8240-a33bc123800d",
+      "machineURL": "TwistedSkyrim",
+      "discordURL": "https://discord.gg/4WwqfK5yHg",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "qTZkQv250nE=",
+      "Size": 1453423165,
+      "NumberOfArchives": 4514,
+      "SizeOfArchives": 396169302416,
+      "NumberOfInstalledFiles": 462697,
+      "SizeOfInstalledFiles": 605144471252,
+      "TotalSize": 1001313773668
+    },
+    "version": "1.2.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-05-25T15:09:59.4697206Z",
+    "repositoryName": ""
+  }
 ]
