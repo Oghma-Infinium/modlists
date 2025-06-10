@@ -150,7 +150,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Twisted-Skyrim/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp",
       "readme": "https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md",
