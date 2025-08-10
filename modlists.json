@@ -172,5 +172,51 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-07-27T20:15:50.0687503Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Vagabond Remastered",
+    "description": "*BETA RELEASE* A Skyrim modlist focused on action combat, custom overhauls and modern visuals.",
+    "author": "Ylikollikas",
+    "maintainers": [
+      "github/Ylikollikas"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "MCO",
+      "SFW",
+      "Graphics",
+      "Total Overhaul",
+      "Combat Overhaul",
+      "Custom Content"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/Vagabond%20Remastered%20Banner%20WEBP.webp",
+      "readme": "https://github.com/Oghma-Infinium/Vagabond-Remastered/tree/main",
+      "download": "https://authored-files.wabbajack.org/Vagabond%20Remastered.wabbajack_1b676453-6e20-474c-a7c2-14f40e533226",
+      "machineURL": "VagabondRemastered",
+      "discordURL": "https://discord.gg/wakingdreams",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "VFkUTKHFg5Y=",
+      "Size": 3902233029,
+      "NumberOfArchives": 4037,
+      "SizeOfArchives": 264805941684,
+      "NumberOfInstalledFiles": 262157,
+      "SizeOfInstalledFiles": 307471559741,
+      "TotalSize": 572277501425
+    },
+    "version": "0.3.4",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-10T18:00:00.0687503Z",
+    "repositoryName": ""
   }
+
+
 ]
