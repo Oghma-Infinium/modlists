@@ -178,7 +178,7 @@
     "description": "*BETA RELEASE* A Skyrim modlist focused on action combat, custom overhauls and modern visuals.",
     "author": "Ylikollikas",
     "maintainers": [
-      "github/Ylikollikas"
+      "github/ylikollikas"
     ],
     "game": "skyrimspecialedition",
     "official": false,
@@ -220,3 +220,4 @@
 
 
 ]
+
