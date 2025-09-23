@@ -198,23 +198,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/Vagabond%20Remastered%20Banner%20WEBP.webp",
       "readme": "https://github.com/Oghma-Infinium/Vagabond-Remastered/tree/main",
-      "download": "https://authored-files.wabbajack.org/Vagabond Remastered.wabbajack_5e2e8f90-62b7-4d3b-a363-aa9e88815449",
+      "download": "https://authored-files.wabbajack.org/Vagabond Remastered.wabbajack_cb46f5bc-669e-4658-b9dd-1f8d89964a9a",
       "machineURL": "VagabondRemastered",
       "discordURL": "https://discord.gg/wakingdreams",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "6JxiVbs5120=",
-      "Size": 4925536179,
-      "NumberOfArchives": 4205,
-      "SizeOfArchives": 272579942060,
-      "NumberOfInstalledFiles": 278846,
-      "SizeOfInstalledFiles": 316896977774,
-      "TotalSize": 589476919834
+      "Hash": "T7g2RVZEdCk=",
+      "Size": 4922669664,
+      "NumberOfArchives": 4223,
+      "SizeOfArchives": 273418093610,
+      "NumberOfInstalledFiles": 279269,
+      "SizeOfInstalledFiles": 316992278391,
+      "TotalSize": 590410372001
     },
-    "version": "0.3.16",
+    "version": "0.3.17",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-16T12:00:11.2214063Z",
+    "dateUpdated": "2025-09-23T19:27:30.322386Z",
     "repositoryName": ""
   }
 ]
