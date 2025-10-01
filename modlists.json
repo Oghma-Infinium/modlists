@@ -8,7 +8,7 @@
       "github/bingusthecatto"
     ],
     "game": "skyrimspecialedition",
-    "official": true,
+    "official": false,
     "tags": [
       "DLC Required",
       "SFW",
@@ -19,7 +19,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Bannernew.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
@@ -218,4 +218,5 @@
     "dateUpdated": "2025-09-24T08:46:50.1455209Z",
     "repositoryName": ""
   }
+
 ]
