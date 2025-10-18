@@ -223,7 +223,7 @@
     "description": "Morning Star is a Wabbajack modlist that focuses on improving Skyrim's gameplay and visuals.",
     "author": "Ender",
     "maintainers": [
-      "github/Ender108",
+      "github/Ender108"
     ],
     "game": "skyrimspecialedition",
     "official": false,
@@ -256,7 +256,7 @@
       "SizeOfInstalledFiles": 77433651666,
       "TotalSize": 143906067272
     },
-    "version": "3.1.4",
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-06-10T03:27:03.0383741Z",
     "repositoryName": ""
