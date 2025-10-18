@@ -232,7 +232,7 @@
       "Simple",
       "Graphics",
       "SFW",
-      "Steam",
+      "Steam"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -262,3 +262,4 @@
     "repositoryName": ""
   }
 ]
+
