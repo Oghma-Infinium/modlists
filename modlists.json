@@ -242,19 +242,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Morning-Star/refs/heads/main/MorningStarBanner.webp",
       "readme": "https://github.com/Ender108/Morning-Star/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_a73e69c5-078f-4840-ba6b-2dcb66c5e8fd",
+      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_2dab8417-98e8-4b46-88a9-578592c26ccd",
       "machineURL": "morningstar",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "KgjWyhAyNgs=",
-      "Size": 1516888229,
-      "NumberOfArchives": 3362,
-      "SizeOfArchives": 191747613942,
-      "NumberOfInstalledFiles": 299877,
-      "SizeOfInstalledFiles": 289916750459,
-      "TotalSize": 481664364401
+      "Hash": "in0xt5lQl8Y=",
+      "Size": 125116330,
+      "NumberOfArchives": 513,
+      "SizeOfArchives": 66472415606,
+      "NumberOfInstalledFiles": 77709,
+      "SizeOfInstalledFiles": 77433651666,
+      "TotalSize": 143906067272
     },
     "version": "3.1.4",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -262,3 +262,4 @@
     "repositoryName": ""
   }
 ]
+
