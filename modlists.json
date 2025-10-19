@@ -199,28 +199,28 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/Vagabond%20Remastered%20Banner%20WEBP.webp",
       "readme": "https://github.com/Oghma-Infinium/Vagabond-Remastered/tree/main",
-      "download": "https://authored-files.wabbajack.org/Vagabond Remastered.wabbajack_81efb605-be98-41f8-9abe-559a0a3ff20c",
+      "download": "https://authored-files.wabbajack.org/Vagabond Remastered.wabbajack_10d7f1ac-fec5-4b31-98d5-a6ab89e1d5d8",
       "machineURL": "VagabondRemastered",
       "discordURL": "https://discord.gg/wakingdreams",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "CLc0RgnAz6U=",
-      "Size": 3286100971,
-      "NumberOfArchives": 4325,
-      "SizeOfArchives": 279989146036,
-      "NumberOfInstalledFiles": 282951,
-      "SizeOfInstalledFiles": 315864716144,
-      "TotalSize": 595853862180
+      "Hash": "B4aqlPoelzs=",
+      "Size": 3233996949,
+      "NumberOfArchives": 4327,
+      "SizeOfArchives": 280329389961,
+      "NumberOfInstalledFiles": 292917,
+      "SizeOfInstalledFiles": 316501001943,
+      "TotalSize": 596830391904
     },
-    "version": "0.4.1",
+    "version": "0.4.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-10-17T08:41:12.1976393Z",
+    "dateUpdated": "2025-10-19T14:02:32.9423908Z",
     "repositoryName": ""
   },
   {
     "title": "Morning Star",
-    "description": "Morning Star is a Wabbajack modlist that focuses on improving Skyrim's gameplay and visuals.",
+    "description": "Morning Star is a Wabbajack modlist that focuses on improving Skyrim\u0027s gameplay and visuals.",
     "author": "Ender",
     "maintainers": [
       "github/Ender108"
@@ -262,4 +262,3 @@
     "repositoryName": ""
   }
 ]
-
