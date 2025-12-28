@@ -176,7 +176,7 @@
   },
   {
     "title": "Vagabond Remastered",
-    "description": "*BETA RELEASE* A Skyrim modlist focused on action combat, custom overhauls and modern visuals.",
+    "description": "*DEVELOPMENT ON HIATUS, NOT ACTIVELY SUPPORTED* A Skyrim modlist focused on action combat, custom overhauls and modern visuals.",
     "author": "Ylikollikas",
     "maintainers": [
       "github/ylikollikas"
@@ -261,4 +261,5 @@
     "dateUpdated": "2025-10-25T19:19:35.7811241Z",
     "repositoryName": ""
   }
+
 ]
