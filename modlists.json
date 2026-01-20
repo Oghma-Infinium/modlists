@@ -175,50 +175,6 @@
     "repositoryName": ""
   },
   {
-    "title": "Vagabond Remastered",
-    "description": "*DEVELOPMENT ON HIATUS, NOT ACTIVELY SUPPORTED* A Skyrim modlist focused on action combat, custom overhauls and modern visuals.",
-    "author": "Ylikollikas",
-    "maintainers": [
-      "github/ylikollikas"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "MCO",
-      "SFW",
-      "Graphics",
-      "Total Overhaul",
-      "Combat Overhaul",
-      "Custom Content"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/Vagabond%20Remastered%20Banner%20WEBP.webp",
-      "readme": "https://github.com/Oghma-Infinium/Vagabond-Remastered/tree/main",
-      "download": "https://authored-files.wabbajack.org/Vagabond Remastered.wabbajack_a40c14d1-cf9f-4fd3-813c-7a1b57355391",
-      "machineURL": "VagabondRemastered",
-      "discordURL": "https://discord.gg/wakingdreams",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "FQzgdEMQjZ8=",
-      "Size": 34065051708,
-      "NumberOfArchives": 4605,
-      "SizeOfArchives": 354591456466,
-      "NumberOfInstalledFiles": 418017,
-      "SizeOfInstalledFiles": 426311110218,
-      "TotalSize": 780902566684
-    },
-    "version": "0.5.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-28T14:54:58.9959118Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Morning Star",
     "description": "Morning Star is a Wabbajack modlist that focuses on improving Skyrim\u0027s gameplay and visuals.",
     "author": "Ender",
@@ -263,3 +219,4 @@
   }
 
 ]
+
