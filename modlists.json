@@ -154,11 +154,11 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Twisted-Skyrim/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp",
-      "readme": "https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md",
+      "readme": "https://twistedskyrim.com/#installation",
       "download": "https://authored-files.wabbajack.org/Twisted%20Skyrim%20v1.7.0.0.wabbajack_73c5d679-fe30-4aab-9ecf-bac29b37c940",
       "machineURL": "TwistedSkyrim",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
-      "websiteURL": ""
+      "websiteURL": "https://twistedskyrim.com/#overview"
     },
     "download_metadata": {
       "Hash": "c3Vuq7zOomE=",
@@ -219,5 +219,6 @@
   }
 
 ]
+
 
 
