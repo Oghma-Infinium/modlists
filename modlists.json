@@ -26,7 +26,8 @@
       "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_8dff1adc-16a7-4294-8436-a7880cefeebe",
       "machineURL": "fahluaan",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "8Es60iJ41fo=",
@@ -66,23 +67,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_a73e69c5-078f-4840-ba6b-2dcb66c5e8fd",
+      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_983cbc9f-91e6-47bc-a853-d1daca065f45",
       "machineURL": "apostasy",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "KgjWyhAyNgs=",
-      "Size": 1516888229,
-      "NumberOfArchives": 3362,
-      "SizeOfArchives": 191747613942,
-      "NumberOfInstalledFiles": 299877,
-      "SizeOfInstalledFiles": 289916750459,
-      "TotalSize": 481664364401
+      "Hash": "i0nB8zIdrdY=",
+      "Size": 1537058432,
+      "NumberOfArchives": 3357,
+      "SizeOfArchives": 191678824807,
+      "NumberOfInstalledFiles": 299739,
+      "SizeOfInstalledFiles": 289916568881,
+      "TotalSize": 481595393688
     },
     "version": "3.1.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-10T03:27:03.0383741Z",
+    "dateUpdated": "2026-04-04T15:50:49.84364Z",
     "repositoryName": ""
   },
   {
@@ -114,7 +116,8 @@
       "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_7e8cdc71-a35d-4c4b-aeb8-569c93be7bc7",
       "machineURL": "ANVIL",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/147302"
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/147302",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "p2TLZ91QL7Q=",
@@ -158,7 +161,8 @@
       "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_2f42b496-5d7b-4588-bde0-b90a445a04cb",
       "machineURL": "TwistedSkyrim",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
-      "websiteURL": "https://twistedskyrim.com/#overview"
+      "websiteURL": "https://twistedskyrim.com/#overview",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "tDhldt1nfpI=",
@@ -201,7 +205,8 @@
       "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_24e331c1-7356-4f02-bce3-f1397071310e",
       "machineURL": "morningstar",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "UXWZd+fVTX4=",
