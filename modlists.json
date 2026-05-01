@@ -162,7 +162,12 @@
       "machineURL": "TwistedSkyrim",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
       "websiteURL": "https://twistedskyrim.com/#overview",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "443992",
+        "slug": "zbd75d",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "R05FWQ3yKzc=",
