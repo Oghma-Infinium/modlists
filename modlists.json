@@ -67,24 +67,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_9e420b85-f22a-4f53-8bb2-0a2d2d42ffc8",
+      "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_c4604f8c-4f4e-4b8d-9be5-fb033e6373fc",
       "machineURL": "apostasy",
       "discordURL": "https://discord.gg/4WwqfK5yHg",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "QIZ6P2KB5/s=",
-      "Size": 1594290598,
-      "NumberOfArchives": 3440,
-      "SizeOfArchives": 192492250260,
-      "NumberOfInstalledFiles": 303822,
-      "SizeOfInstalledFiles": 291858630570,
-      "TotalSize": 484350880830
+      "Hash": "XB4UEdwVa/I=",
+      "Size": 1594281105,
+      "NumberOfArchives": 3441,
+      "SizeOfArchives": 192505604777,
+      "NumberOfInstalledFiles": 303758,
+      "SizeOfInstalledFiles": 291855128525,
+      "TotalSize": 484360733302
     },
-    "version": "3.2.2",
+    "version": "3.2.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-14T14:36:11.9990629Z",
+    "dateUpdated": "2026-07-10T13:54:48.913716Z",
     "repositoryName": ""
   },
   {
