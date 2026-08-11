@@ -182,49 +182,5 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-05-02T22:49:37.1014222Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Morning Star",
-    "description": "Morning Star is a Wabbajack modlist that focuses on improving Skyrim\u0027s gameplay and visuals.",
-    "author": "Ender",
-    "maintainers": [
-      "github/Ender108"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Simonrim",
-      "Simple",
-      "Graphics",
-      "SFW",
-      "Steam"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Ender108/Morning-Star/refs/heads/main/MorningStarBanner.webp",
-      "readme": "https://github.com/Ender108/Morning-Star/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_24e331c1-7356-4f02-bce3-f1397071310e",
-      "machineURL": "morningstar",
-      "discordURL": "https://discord.gg/4WwqfK5yHg",
-      "websiteURL": "",
-      "nexusCollection": null
-    },
-    "download_metadata": {
-      "Hash": "UXWZd+fVTX4=",
-      "Size": 126246413,
-      "NumberOfArchives": 513,
-      "SizeOfArchives": 66471869253,
-      "NumberOfInstalledFiles": 77444,
-      "SizeOfInstalledFiles": 77454750784,
-      "TotalSize": 143926620037
-    },
-    "version": "1.0.4",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-10-25T19:19:35.7811241Z",
-    "repositoryName": ""
   }
 ]
