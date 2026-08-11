@@ -3,16 +3,6 @@ Listed below is a short summary of the modlists currently hosted on the **Waking
 
 <div align="center">
 
-## Anvil
-[ [ReadMe](https://github.com/Oghma-Infinium/Anvil) | [Changelog](https://github.com/Oghma-Infinium/Anvil/blob/main/CHANGELOG.md) | [Configuration](https://github.com/Oghma-Infinium/Anvil/blob/main/CONFIG.md) | [Load Order](https://loadorderlibrary.com/lists/anvil) ]
-</div>
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Anvil/refs/heads/main/Media/Anvil%20Header.png)
-
-**Anvil** is a visuals-only modlist for Skyrim Special Edition (1.6.1170) that is built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). Originally crafted by Althro, it's now maintained by Bingus (former author of the [Ascensio](https://github.com/Oghma-Infinium/Ascensio) modlist) as my own personal playground for Community Shaders related mods. So whether you’re looking for a solid visual foundation to build upon or simply want to dive in and play as is, Anvil has you covered.
-
-<div align="center">
-
 ## Apostasy
 [ [ReadMe](https://github.com/Oghma-Infinium/Apostasy) | [Changelog](https://github.com/Oghma-Infinium/Apostasy/blob/main/CHANGELOG.md) | [FAQ](https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/FAQ.md) | [Gameplay Guide](https://github.com/Oghma-Infinium/Apostasy/blob/main/GAMEPLAY.md) |  [Load Order](https://loadorderlibrary.com/lists/apostasy) ]
 </div>
